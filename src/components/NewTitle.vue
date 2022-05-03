@@ -1,6 +1,6 @@
 
 <template>
- <div id="Title">
+ <div id="title">
    <h1>La mia prima app con Vue CLI!</h1> 
    <img src="../assets/jumbo.jpg" alt="jumbo">
   </div>
