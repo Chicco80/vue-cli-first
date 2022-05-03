@@ -2,16 +2,19 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <NewTitle/>
+    <NewPar/>
   </div>
 </template>
 
 <script>
 import NewTitle from './components/NewTitle.vue'
+import NewPar from './components/NewPar.vue'
 
 export default {
   name: 'App',
   components: {
-    NewTitle
+    NewTitle,
+    NewPar,
   }
 }
 </script>
